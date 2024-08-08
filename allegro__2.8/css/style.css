@@ -377,8 +377,7 @@ h6 {
   border-radius: 20px;
   -webkit-filter: blur(2px);
   filter: blur(2px);
-  font-weight: 600;
-  transition: all .3s
+
 }
 .wrapper__slide a {
   display: block;
