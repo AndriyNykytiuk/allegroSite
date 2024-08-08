@@ -3681,13 +3681,13 @@
             modules: [ Navigation, Autoplay, Mousewheel ],
             spaceBetween: 50,
             autoHeight: true,
-            speed: 1100,
+            speed: 1400,
             direction: "vertical",
             touchRatio: 2,
             loop: true,
             centeredSlides: true,
             mousewheel: {
-                sensivity: 1
+                sensivity: 0.6
             },
             autoplay: {
                 delay: 3e3,
