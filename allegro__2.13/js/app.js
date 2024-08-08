@@ -3696,25 +3696,25 @@
             breakpoints: {
                 200: {
                     slidesPerView: 2.6,
-                    spaceBetween: 120,
+                    spaceBetween: 180,
                     autoHeight: true
                 },
                 640: {
                     slidesPerView: 2.6,
-                    spaceBetween: 120,
+                    spaceBetween: 180,
                     autoHeight: true
                 },
                 768: {
                     slidesPerView: 1.8,
-                    spaceBetween: 10
+                    spaceBetween: 100
                 },
                 992: {
                     slidesPerView: 2.3,
-                    spaceBetween: 20
+                    spaceBetween: 120
                 },
                 1268: {
                     slidesPerView: 2.5,
-                    spaceBetween: 30
+                    spaceBetween: 130
                 }
             },
             on: {}
